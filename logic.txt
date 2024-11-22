@@ -1,0 +1,44 @@
+this is something that I'm working on for the exercise
+
+
+
+numb1 numb2 and numb3
+
+numb1 == numb2 and numb2 == numb3 // done
+	print "All numbers are equal"
+
+numb1 > numb2 and numb2 == numb3 // done
+	print "MAX = numb1"
+	print "MIN = numb2 and numb3"
+
+numb1 == numb2 and numb2 < numb3 // done
+	print "MAX = numb3"
+	print "MIN = numb1 and numb2"
+
+numb1 == numb2 and numb2 > numb3 // done
+	print "MAX = numb2"
+	print "MIN = numb1 and numb3"
+
+numb1 < numb2 and numb2 > numb3 // done
+	print "MAX = numb2"
+	print "MIN = numb1 and numb3"
+
+
+	/*---------------------------------------*/
+
+next section is for the three values of numbers
+
+numb1 < numb2 and numb2 < numb3
+	print "MAX = numb3"
+	print "MIN = numb1"
+
+numb1 > numb2 and numb2 < numb3
+	print"MAX = numb3"
+	print"MIN = numb2"
+
+numb1 < numb2 and numb2 > numb3
+	print "MAX = numb2"
+	print "MIN = numb1"
+
+numb1 > numb2 and numb2 > numb3
+	print "MAX = numb1"
